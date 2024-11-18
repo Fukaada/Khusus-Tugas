@@ -1,0 +1,7 @@
+Halo, ini adalah file kedua.
+Baris kedua di file pertama.
+Baris ketiga di file kedua.
+ini baris yang sama
+baris lain
+baris lain 
+baris lain
